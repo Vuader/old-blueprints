@@ -10,7 +10,7 @@ Welcome to TachyonProject Blueprints's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   orchestrator
 
 Indices and tables
 ==================
